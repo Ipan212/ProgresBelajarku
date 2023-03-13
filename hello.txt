@@ -1,2 +1,3 @@
-hello dunia
-Bismillah saya saat ini sedang belajar tentang git hub
+hello word
+saat ini saya sedang belajar github
+belajar git hub ternyata sangat menyenangkan
