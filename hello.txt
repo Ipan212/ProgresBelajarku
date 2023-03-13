@@ -1,1 +1,2 @@
-hello word
+hello dunia
+Bismillah saya saat ini sedang belajar tentang git hub
